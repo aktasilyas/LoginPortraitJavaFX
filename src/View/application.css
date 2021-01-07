@@ -1,0 +1,15 @@
+.rootPane{
+	
+	-fx-background-image:url("/Images/1.jpg") ;
+	-fx-background-repeat:no-repeat ;
+}
+
+.btn{
+	-fx-background-color: #00c576;
+	-fx-background-radius:50px;
+}
+.btn:hover{
+	
+	-fx-background-color:#ffbd01;
+	-fx-background-radius:50px;
+}
